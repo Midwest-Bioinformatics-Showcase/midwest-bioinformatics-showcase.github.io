@@ -7,8 +7,10 @@ layout: default
     <p><strong>Speaker:</strong> {{ page.speaker }}</p>
     <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
     <p><strong>Location:</strong> {{ page.location }}</p>
+
     <div class="content">
         {{ content }}
     </div>
-    <p><a href="{{ site.baseurl }}/">← Back to seminars</a></p>
+
+    <p><a href="{{ '/seminars/' | relative_url }}">← Back to seminars</a></p>
 </article>
