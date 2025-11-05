@@ -1,0 +1,6 @@
+title: Midwest Bioinformatics Showcase
+description: Connecting Researchers Across the Midwest
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
