@@ -31,4 +31,4 @@ February 27, March 6, 13, 20, and April 3, 10, 17, 24, 2026 —
 Fridays at 10 AM ET / 9 AM CT.  
 Please ensure you’re available at least one of those dates before submitting.
 
-👉 **[Submit your abstract here](#)** _(Replace with your Google Form or submission portal link)_
+👉 **[Submit your abstract here](#)** _(I will put the MS forms link here soon)_

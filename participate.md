@@ -15,4 +15,4 @@ Institutions can:
 - Collaborate on training or resource-sharing opportunities related to HPC and genomics.
 
 To get involved, please contact the organizing committee at  
-📧 **<midwestbioinformatics@purdue.edu>** _(placeholder)_.
+📧 **<midwestbioinformatics@university.edu>** _(placeholder)_.
