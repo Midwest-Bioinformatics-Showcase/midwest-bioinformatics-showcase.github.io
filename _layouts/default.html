@@ -80,11 +80,9 @@
     </header>
 
 <nav>
-    <a href="{{ '/' | relative_url }}">Home</a>
-    {% for page in site.header_pages %}
-    {% assign page_path = page | prepend: '/' %}
+    {% for page_path in site.header_pages %}
     {% assign my_page = site.pages | where: "path", page_path | first %}
-    {% if my_page.title and my_page.url != "/" %}
+    {% if my_page %}
     <a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
     {% endif %}
     {% endfor %}
