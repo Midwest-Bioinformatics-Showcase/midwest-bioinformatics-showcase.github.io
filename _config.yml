@@ -1,6 +1,27 @@
 title: Midwest Bioinformatics Showcase
 description: Connecting Researchers Across the Midwest
+baseurl: "" # leave empty for GitHub Pages org site
+url: "https://midwest-bioinformatics-showcase.github.io"
+
+# Use the built-in GitHub Pages theme
 theme: minima
+
+# Collections (so seminars act like posts)
+collections:
+  seminars:
+    output: true
+    permalink: /seminars/:title/
+
+# Default metadata
+defaults:
+  - scope:
+      path: ""
+      type: seminars
+    values:
+      layout: seminar
+      author: Organizing Committee
+
+# Markdown rendering
 markdown: kramdown
 plugins:
   - jekyll-feed

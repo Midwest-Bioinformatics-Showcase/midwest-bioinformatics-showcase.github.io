@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="seminar">
+    <h1>{{ page.title }}</h1>
+    <p><strong>Speaker:</strong> {{ page.speaker }}</p>
+    <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+    <p><strong>Location:</strong> {{ page.location }}</p>
+    <div class="content">
+        {{ content }}
+    </div>
+    <p><a href="{{ site.baseurl }}/">← Back to seminars</a></p>
+</article>
