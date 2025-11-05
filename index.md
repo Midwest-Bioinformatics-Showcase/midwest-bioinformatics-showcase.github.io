@@ -1,25 +1,16 @@
 ---
 layout: default
-title: Midwest Bioinformatics Showcase
+title: Home
 ---
 
-# Midwest Bioinformatics Showcase
+# Midwest Bioinformatics Showcase Seminar Series
 
-Connecting Researchers in Genomics, Data Science, and Computation across the Midwest.
+The **Midwest Bioinformatics Showcase Seminars** highlight graduate students and postdoctoral researchers using high-performance computing (HPC) resources for genomics research.  
 
----
+By providing a platform for students and postdocs to present their work to a community of peers and colleagues both from their home universities and across the Midwest, this weekly series fosters cross-institutional dialogue, provides professional development opportunities, and showcases cutting-edge genomics work enabled by HPC.
 
-## Upcoming Seminars
+The **2026 series** is a collaborative effort between **Purdue University** and **Northwestern University**, and students and postdoctoral researchers from those universities are invited to [submit an abstract](submit.html) to be considered as seminar speakers.
 
-<ul>
-{% for seminar in site.seminars %}
-  <li>
-    <a href="{{ seminar.url | relative_url }}"><strong>{{ seminar.title }}</strong></a><br/>
-    {{ seminar.speaker }} — {{ seminar.date | date: "%B %d, %Y" }}
-  </li>
-{% endfor %}
-</ul>
-
----
-
-Hosted jointly by [Purdue University](https://purdue.edu) and [Northwestern University](https://www.northwestern.edu/).
+But you don’t have to be affiliated with Purdue or Northwestern to attend!  
+Anyone interested in bioinformatics, computational genomics, or life sciences research is welcome to attend our virtual seminars.  
+Please fill out this form to be added to our email list so you never miss a seminar.
