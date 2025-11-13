@@ -8,119 +8,136 @@
         {% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}
     </title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<style>
-    /* overall content width */
-    main {
-        max-width: 900px;
-        margin: 2.5rem auto;
-        padding: 0 1.2rem;
-    }
-
-    header {
-        padding: 2.5rem 1rem;
-    }
-
-    header h1 {
-        font-size: 2.4rem;
-        letter-spacing: -0.5px;
-    }
-
-    header p {
-        margin-top: 0.3rem;
-        font-size: 1.15rem;
-        opacity: 0.9;
-    }
-
-    /* navigation bar improvement */
-    nav {
-        background: #eaf0f6;
-        padding: 0.9rem 0;
-        display: flex;
-        justify-content: center;
-        gap: 2rem;
-        border-bottom: 1px solid #d0d6dd;
-    }
-
-    nav a {
-        color: #294a70;
-        font-weight: 500;
-        text-decoration: none;
-        padding: 0.4rem 0.6rem;
-        border-radius: 5px;
-        transition: background 0.1s ease;
-    }
-
-    nav a:hover {
-        background: #dce4ed;
-    }
-
-    /* headings */
-    h1,
-    h2,
-    h3 {
-        font-weight: 600;
-        color: #0b2545;
-        margin-top: 1.8rem;
-        margin-bottom: 0.75rem;
-    }
-
-    /* paragraphs */
-    p {
-        line-height: 1.7;
-        font-size: 1.05rem;
-        margin-bottom: 1rem;
-    }
-
-    /* links */
-    a {
-        color: #1d4e89;
-    }
-
-    /* section separators (clean look similar to your sample) */
-    hr {
-        border: 0;
-        border-top: 1px solid #ddd;
-        margin: 2rem 0;
-    }
-
-    /* seminar listings */
-    ul li {
-        margin-bottom: 0.7rem;
-        line-height: 1.4;
-    }
-</style>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
+
     <style>
+        /* overall content width */
+        main {
+            max-width: 900px;
+            margin: 2.5rem auto;
+            padding: 0 1.2rem;
+        }
+
+        header {
+            padding: 2.5rem 0;
+        }
+
+        header h1 {
+            font-size: 2.4rem;
+            letter-spacing: -0.5px;
+        }
+
+        header p {
+            margin-top: 0.3rem;
+            font-size: 1.15rem;
+            opacity: 0.9;
+        }
+
+        /* navigation bar improvement */
+        nav {
+            background: #eaf0f6;
+            padding: 0.9rem 0;
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            border-bottom: 1px solid #d0d6dd;
+        }
+
+        nav a {
+            color: #294a70;
+            font-weight: 500;
+            text-decoration: none;
+            padding: 0.4rem 0.6rem;
+            border-radius: 5px;
+            transition: background 0.1s ease;
+        }
+
+        nav a:hover {
+            background: #dce4ed;
+        }
+
+        /* headings */
+        h1,
+        h2,
+        h3 {
+            font-weight: 600;
+            color: #0b2545;
+            margin-top: 1.8rem;
+            margin-bottom: 0.75rem;
+        }
+
+        /* paragraphs */
+        p {
+            line-height: 1.7;
+            font-size: 1.05rem;
+            margin-bottom: 1rem;
+        }
+
+        /* links */
+        a {
+            color: #1d4e89;
+        }
+
+        /* section separators (clean look similar to your sample) */
+        hr {
+            border: 0;
+            border-top: 1px solid #ddd;
+            margin: 2rem 0;
+        }
+
+        /* seminar listings */
+        ul li {
+            margin-bottom: 0.7rem;
+            line-height: 1.4;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            /* centers container but not content */
+            padding: 0 1.2rem;
+            text-align: left;
+            /* left-align header/footer text */
+        }
+
+        /* footer */
+        footer {
+            padding: 2rem 0;
+            border-top: 1px solid #d0d6dd;
+        }
+
         body {
             font-family: 'Inter', sans-serif;
         }
     </style>
 
+
 </head>
 
 <body>
     <header>
-        <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
+        <div class="container">
+            <h1>{{ site.title }}</h1>
+            <p>{{ site.description }}</p>
+        </div>
     </header>
-
-<nav>
-    {% for page_path in site.header_pages %}
-    {% assign my_page = site.pages | where: "path", page_path | first %}
-    {% if my_page %}
-    <a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
-    {% endif %}
-    {% endfor %}
-</nav>
+    <nav>
+        {% for page_path in site.header_pages %}
+        {% assign my_page = site.pages | where: "path", page_path | first %}
+        {% if my_page %}
+        <a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
+        {% endif %}
+        {% endfor %}
+    </nav>
 
     <main>
         {{ content }}
     </main>
 
     <footer>
-        © {{ site.time | date: "%Y" }} {{ site.title }} |
-        Maintained by the Organizing Committee
+        <div class="container">
+            © {{ site.time | date: "%Y" }} {{ site.title }} | Maintained by the Organizing Committee
+        </div>
     </footer>
 </body>
 
