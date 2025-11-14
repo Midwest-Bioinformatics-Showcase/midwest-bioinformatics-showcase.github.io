@@ -2,15 +2,29 @@
 layout: default
 ---
 
-<article class="seminar">
+<main>
     <h1>{{ page.title }}</h1>
+
     <p><strong>Speaker:</strong> {{ page.speaker }}</p>
-    <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
-    <p><strong>Location:</strong> {{ page.location }}</p>
+    <p><strong>Institution:</strong> {{ page.institution }}</p>
 
-    <div class="content">
-        {{ content }}
-    </div>
+    <p><strong>Date:</strong>
+        {{ page.date | date: "%B %d, %Y" }}
+    </p>
 
-    <p><a href="{{ '/seminars/' | relative_url }}">← Back to seminars</a></p>
-</article>
+    {% if page.zoom_link %}
+    <p><a href="{{ page.zoom_link }}">Join Zoom</a></p>
+    {% endif %}
+
+    {% if page.calendar_link %}
+    <p><a href="{{ page.calendar_link }}">Add to Calendar</a></p>
+    {% endif %}
+
+    {% if page.recording_link %}
+    <p><a href="{{ page.recording_link }}">Recording</a></p>
+    {% endif %}
+
+    <hr>
+
+    {{ content }}
+</main>

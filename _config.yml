@@ -9,7 +9,6 @@ collections:
     output: true
     permalink: /seminars/:name/
 
-
 defaults:
   - scope:
       path: ""
