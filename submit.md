@@ -27,8 +27,8 @@ Abstracts will be reviewed by a committee of faculty and research computing staf
 If selected, you’ll be invited as a seminar speaker.
 
 **Seminar sessions:**  
-February 27, March 6, 13, 20, and April 3, 10, 17, 24, 2026 —  
 Fridays at 10 AM ET / 9 AM CT.  
 Please ensure you’re available at least one of those dates before submitting.
+See the [seminar schedule](seminars.html) for upcoming dates.
 
-👉 **[Submit your abstract here](#)** _(I will put the MS forms link here soon)_
+👉 **[Submit your abstract here](https://forms.cloud.microsoft/r/Rq9Z1Kdtk8)**
