@@ -8,7 +8,7 @@ layout: default
     <div class="seminar-meta">
 
         <p>
-            <img src="{{ '/assets/icons/speaker.svg' | relative_url }}" class="icon">
+            <img src="{{ '/assets/icons/building.svg' | relative_url }}" class="icon">
             <strong>{{ page.speaker }}</strong>
         </p>
 
@@ -18,32 +18,32 @@ layout: default
         </p>
 
         <p>
-            <img src="{{ '/assets/icons/calendar.svg' | relative_url }}" class="icon">
+            <img src="{{ '/assets/icons/building.svg' | relative_url }}" class="icon">
             {{ page.date | date: "%B %d, %Y" }}
         </p>
 
         <p>
-            <img src="{{ '/assets/icons/time.svg' | relative_url }}" class="icon">
+            <img src="{{ '/assets/icons/building.svg' | relative_url }}" class="icon">
             10:00 AM Eastern Time
         </p>
 
         {% if page.zoom_link %}
         <p>
-            <img src="{{ '/assets/icons/zoom.svg' | relative_url }}" class="icon">
+            <img src="{{ '/assets/icons/building.svg' | relative_url }}" class="icon">
             <a href="{{ page.zoom_link }}">Join Zoom</a>
         </p>
         {% endif %}
 
         {% if page.calendar_link %}
         <p>
-            <img src="{{ '/assets/icons/calendar.svg' | relative_url }}" class="icon">
+            <img src="{{ '/assets/icons/building.svg' | relative_url }}" class="icon">
             <a href="{{ page.calendar_link }}">Add to Calendar</a>
         </p>
         {% endif %}
 
         {% if page.recording_link %}
         <p>
-            <img src="{{ '/assets/icons/video.svg' | relative_url }}" class="icon">
+            <img src="{{ '/assets/icons/building.svg' | relative_url }}" class="icon">
             <a href="{{ page.recording_link }}">Watch Recording</a>
         </p>
         {% endif %}
