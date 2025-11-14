@@ -7,7 +7,7 @@ url: "https://midwest-bioinformatics-showcase.github.io"
 collections:
   seminars:
     output: true
-    permalink: /seminars/:path/index.html
+    permalink: /seminars/:name/
 
 
 defaults:
