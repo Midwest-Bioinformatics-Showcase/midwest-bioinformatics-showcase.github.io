@@ -50,7 +50,6 @@ Welcome to the seminar schedule. Each seminar includes its abstract page, Zoom l
 <p><em>No upcoming seminars scheduled.</em></p>
 {% endif %}
 
----
 
 ## Past Seminars
 

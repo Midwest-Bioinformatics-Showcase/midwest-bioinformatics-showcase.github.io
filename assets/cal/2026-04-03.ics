@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Midwest Bioinformatics Showcase//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20260403T100000-midwestbioinfo@github.io
+DTSTAMP:20250101T120000Z
+DTSTART:20260403T140000Z
+DTEND:20260403T150000Z
+SUMMARY:TBD Seminar – Midwest Bioinformatics Showcase
+DESCRIPTION:Details will be updated once the speaker is confirmed.
+LOCATION:Zoom
+URL:https://midwest-bioinformatics-showcase.github.io
+END:VEVENT
+END:VCALENDAR
