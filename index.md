@@ -11,6 +11,5 @@ By providing a platform for students and postdocs to present their work to a com
 
 The **Spring 2026 series** is a collaborative effort between **Purdue University** and **Northwestern University**, and students and postdoctoral researchers from those universities are invited to [submit an abstract](submit.html) to be considered as seminar speakers.
 
-But you don’t have to be affiliated with Purdue or Northwestern to attend!  
-Anyone interested in bioinformatics, computational genomics, or life sciences research is welcome to attend our virtual seminars.  
-Please fill out this form to be added to our email list so you never miss a seminar.
+_But you don’t have to be affiliated with Purdue or Northwestern to attend!_  
+Anyone interested in bioinformatics, computational genomics, or life sciences research is welcome to attend our virtual seminars. **Please fill out [this form](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?subpage=design&token=f422e57f2d0841de95cb72b65a63da4d&id=YdN2fXeCCEekd2ToNmzRvDXWi-SK9gpPtmVWEf0xcBBURjJFWjdUQTVBMTJEMUpaN0oyU0lVOUZBWC4u) to be added to our email list so you never miss a seminar.**
