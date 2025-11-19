@@ -10,4 +10,7 @@ The Midwest Bioinformatics Showcase is coordinated jointly by researchers and st
 - **Northwestern University**
 - **Purdue University**
 
-Additional organizing committee members and institutional liaisons will be added here as the series expands.
+[Arun Seetharam](https://www.rcac.purdue.edu/index.php/about/staff/aseethar) - Lead Bioinformatics Scientist, Rosen Center for Advanced Computing, Purdue University
+
+[Haley Carter](https://www.it.northwestern.edu/departments/it-services-support/research/staff/carter.html) - Computational Specialist, Research Computing and Data Services, Northwestern University
+
