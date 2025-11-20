@@ -7,6 +7,8 @@ title: Seminars
 
 Welcome to the seminar schedule. Each seminar includes its abstract page, Zoom link, calendar invite, and (when available) a recording.
 
+To receive email reminders and links for upcoming seminars, please fill out [this form](https://forms.cloud.microsoft/r/MtLwnQnUUT).
+
 ---
 
 ## Upcoming Seminars

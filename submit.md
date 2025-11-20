@@ -25,3 +25,6 @@ Abstracts will be reviewed by a committee of faculty and research computing staf
 Seminars are held over Zoom on Fridays at 11 AM ET / 10 AM CT. See the [seminar schedule](seminars.html) for upcoming dates. Please ensure you’re available at least one of those dates before submitting.
 
 👉 **[Submit your abstract here](https://forms.cloud.microsoft/r/Rq9Z1Kdtk8)**
+
+Interested in the series but don't want to submit an abstract? Please fill out [this form](https://forms.cloud.microsoft/r/MtLwnQnUUT) to be added to our email list for seminar updates and links.
+
