@@ -5,7 +5,7 @@ title: Submit an Abstract
 
 # Submit an Abstract
 
-Graduate students and postdoctoral researchers from **Purdue** or **Northwestern University** are invited to submit an abstract for a proposed seminar talk. Seminar talks can address any biological question but should feature a computational approach. Talks on novel bioinformatics tools or methods are also welcome.
+Graduate students and postdoctoral researchers from **Purdue** or **Northwestern University** are invited to submit an abstract for a proposed seminar talk. Seminar talks can address any biological question but should feature a computational approach. Talks on novel bioinformatics tools or methods are also welcome. **Abstracts are due January 16.**
 
 ## Submission Materials
 
@@ -24,7 +24,7 @@ Abstracts will be reviewed by a committee of faculty and research computing staf
 
 Seminars are held over Zoom on Fridays at 11 AM ET / 10 AM CT. See the [seminar schedule](seminars.html) for upcoming dates. Please ensure you’re available at least one of those dates before submitting.
 
-👉 **[Submit your abstract here](https://forms.cloud.microsoft/r/Rq9Z1Kdtk8)**
+👉 **[Submit your abstract here (Due January 16)](https://forms.cloud.microsoft/r/Rq9Z1Kdtk8)**
 
 Interested in the series but don't want to submit an abstract? Please fill out [this form](https://forms.cloud.microsoft/r/MtLwnQnUUT) to be added to our email list for seminar updates and links.
 
