@@ -45,6 +45,7 @@ To receive email reminders and links for upcoming seminars, please fill out [thi
       </td>
     </tr>
   {% endfor %}
+
   </tbody>
 </table>
 
