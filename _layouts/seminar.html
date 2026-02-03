@@ -14,12 +14,12 @@ layout: default
 
         <p>
             <img src="{{ '/assets/icons/speaker.svg' | relative_url }}" class="icon">
-            <strong>{{ page.speaker }}</strong>
+            <strong>{{ page.speaker }}</strong>{% if page.position %}, {{ page.position }}{% endif %}
         </p>
 
         <p>
             <img src="{{ '/assets/icons/building.svg' | relative_url }}" class="icon">
-            {{ page.institution }}
+            {% if page.department %}{{ page.department }}, {% endif %}{{ page.institution }}
         </p>
 
         <p>
@@ -48,7 +48,24 @@ layout: default
         </p>
         {% endif %}
 
+        {% if page.keywords %}
+        <div class="keywords">
+            {% assign keyword_list = page.keywords | split: ", " %}
+            {% for keyword in keyword_list %}
+            <span class="keyword-tag">{{ keyword }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+
     </div>
+
+    {% if page.abstract %}
+    <hr>
+    <div class="abstract">
+        <h2>Abstract</h2>
+        <p>{{ page.abstract }}</p>
+    </div>
+    {% endif %}
 
     <hr>
 
