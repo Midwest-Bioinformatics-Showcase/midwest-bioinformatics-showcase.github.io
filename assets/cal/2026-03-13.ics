@@ -6,10 +6,10 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:20260313T100000-midwestbioinfo@github.io
 DTSTAMP:20250101T120000Z
-DTSTART:20260313T140000Z
-DTEND:20260313T150000Z
-SUMMARY:TBD Seminar – Midwest Bioinformatics Showcase
-DESCRIPTION:Details will be updated once the speaker is confirmed.
+DTSTART:20260313T150000Z
+DTEND:20260313T160000Z
+SUMMARY:Purba Mandal – Mitochondrial bioenergetic signatures differentiate asymptomatic from symptomatic Alzheimer's disease
+DESCRIPTION:Speaker: Purba Mandal, Purdue University
 LOCATION:Zoom
 URL:https://midwest-bioinformatics-showcase.github.io
 END:VEVENT
