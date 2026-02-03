@@ -6,6 +6,11 @@ layout: default
     <h1>{{ page.title }}</h1>
 
     <div class="seminar-meta">
+        {% if page.image %}
+        <div class="speaker-photo">
+            <img src="{{ page.image | relative_url }}" alt="{{ page.speaker }}">
+        </div>
+        {% endif %}
 
         <p>
             <img src="{{ '/assets/icons/speaker.svg' | relative_url }}" class="icon">
