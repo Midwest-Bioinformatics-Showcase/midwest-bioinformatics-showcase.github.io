@@ -8,8 +8,8 @@ UID:20260410T100000-midwestbioinfo@github.io
 DTSTAMP:20250101T120000Z
 DTSTART:20260410T140000Z
 DTEND:20260410T150000Z
-SUMMARY:TBD Seminar – Midwest Bioinformatics Showcase
-DESCRIPTION:Details will be updated once the speaker is confirmed.
+SUMMARY:Iris Liu – Developing a novel enzyme-based method to assess predictive methylation markers associated with severe SARS-CoV-2 pneumonia mortality
+DESCRIPTION:Speaker: Iris Liu, Northwestern University
 LOCATION:Zoom
 URL:https://midwest-bioinformatics-showcase.github.io
 END:VEVENT
