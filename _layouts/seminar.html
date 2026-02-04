@@ -63,6 +63,14 @@ layout: default
     <hr>
     <div class="abstract">
         <h2>Abstract</h2>
+        {% if page.authors %}
+        <div class="authors-section">
+            <p class="authors">{{ page.authors }}</p>
+            {% if page.affiliations %}
+            <p class="affiliations">{{ page.affiliations }}</p>
+            {% endif %}
+        </div>
+        {% endif %}
         <p>{{ page.abstract }}</p>
     </div>
     {% endif %}
