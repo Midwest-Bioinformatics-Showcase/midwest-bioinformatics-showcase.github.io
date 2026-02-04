@@ -5,6 +5,7 @@ speaker: "Feihong Xu"
 position: "PhD candidate"
 institution: "Northwestern University"
 department: "ESAM"
+image: /assets/images/feihong-xu.jpeg
 keywords: "deep neural network, weights similarity, model interpretation, computer vision"
 authors: "Feihong Xu<sup>1</sup>, Cleber Zanchettin<sup>1</sup>, Luis A. Nunes Amaral<sup>1</sup>"
 affiliations: "1. Northwestern University"
@@ -14,4 +15,4 @@ zoom_link:
 calendar_link: /assets/cal/2026-03-20.ics
 recording_link:
 ---
-*Bio and photo coming soon.*
+*Bio coming soon.*
