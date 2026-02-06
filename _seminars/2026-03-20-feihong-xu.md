@@ -1,6 +1,6 @@
 ---
 layout: seminar
-title: "To what extent deep neural networks learn the same thing?"
+title: "To what extent do deep neural networks learn the same thing?"
 speaker: "Feihong Xu"
 position: "PhD candidate"
 institution: "Northwestern University"
