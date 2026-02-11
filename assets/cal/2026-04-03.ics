@@ -6,8 +6,8 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:20260403T100000-midwestbioinfo@github.io
 DTSTAMP:20250101T120000Z
-DTSTART:20260403T140000Z
-DTEND:20260403T150000Z
+DTSTART:20260403T150000Z
+DTEND:20260403T160000Z
 SUMMARY:Laia Vancells Lopez – Spatiotemporal Agent-Based Modeling of Immune Control Gates in the Tumor-Draining Lymph Node
 DESCRIPTION:Speaker: Laia Vancells Lopez, Purdue University
 LOCATION:Zoom
