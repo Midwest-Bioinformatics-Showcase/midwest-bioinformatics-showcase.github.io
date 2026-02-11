@@ -8,8 +8,8 @@ UID:20260424T100000-midwestbioinfo@github.io
 DTSTAMP:20250101T120000Z
 DTSTART:20260424T140000Z
 DTEND:20260424T150000Z
-SUMMARY:TBD Seminar – Midwest Bioinformatics Showcase
-DESCRIPTION:Details will be updated once the speaker is confirmed.
+SUMMARY:Yueming Liu – Evaluating Ancestry Adjustment in Multi-Ancestry Epigenome-Wide Analysis
+DESCRIPTION:Speaker: Yueming Liu, Northwestern University
 LOCATION:Zoom
 URL:https://midwest-bioinformatics-showcase.github.io
 END:VEVENT
