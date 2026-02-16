@@ -15,4 +15,4 @@ zoom_link:
 calendar_link: /assets/cal/2026-03-13.ics
 recording_link:
 ---
-*Bio and photo coming soon.*
+*Bio coming soon.*
