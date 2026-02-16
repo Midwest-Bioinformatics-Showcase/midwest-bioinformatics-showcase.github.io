@@ -9,7 +9,8 @@ The **Midwest Bioinformatics Showcase Seminars** highlight graduate students and
 
 By providing a platform for students and postdocs to present their work to a community of peers and colleagues both from their home universities and across the Midwest, this weekly series fosters cross-institutional dialogue, provides professional development opportunities, and showcases cutting-edge genomics work enabled by HPC.
 
-The **Spring 2026 series** is a collaborative effort between **Purdue University** and **Northwestern University**. Abstract submissions are now closed, and speakers will be announced soon.
+The **Spring 2026 series** is a collaborative effort between **Purdue University** and **Northwestern University**. 
+Abstract submissions are now closed; selected speakers can be viewed from the Seminars page.
 
 ## Attend the Seminars
 
