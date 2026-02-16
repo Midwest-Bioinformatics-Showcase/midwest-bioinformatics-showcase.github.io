@@ -5,7 +5,7 @@ title: Seminars
 
 # Seminars
 
-Welcome to the seminar schedule. Each seminar includes its abstract page, Zoom link, calendar invite, and (when available) a recording.
+Below is the schedule for our 2026 Seminar series. Click on the title of each talk to see the abstract, speaker information, and when available, a recording.
 
 To receive email reminders and links for upcoming seminars, please fill out [this form](https://forms.cloud.microsoft/r/MtLwnQnUUT).
 
