@@ -9,8 +9,6 @@ title: Submit an Abstract
 
 Thank you for your interest in the Midwest Bioinformatics Showcase Seminar Series! Abstract submissions for the **Spring 2026** series are now closed.
 
-Our selection committee is currently reviewing submissions, and speakers will be announced soon. Selected speakers will be contacted directly with further details.
-
 ## Future Opportunities
 
 Interested in presenting at a future series? Sign up for our [mailing list](https://forms.cloud.microsoft/r/MtLwnQnUUT) to receive updates about upcoming submission periods and seminar announcements.
