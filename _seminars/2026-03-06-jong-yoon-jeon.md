@@ -13,6 +13,6 @@ abstract: "As a collection of all the genetic variants in the gene pool, the pan
 date: 2026-03-06
 zoom_link:
 calendar_link: /assets/cal/2026-03-06.ics
-recording_link:
+recording_link: https://youtu.be/HEl7clNdCDU
 ---
 *Bio coming soon.*
