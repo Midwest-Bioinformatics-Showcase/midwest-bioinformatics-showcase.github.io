@@ -13,6 +13,6 @@ abstract: "Deep learning approaches have revolutionized artificial intelligence,
 date: 2026-03-20
 zoom_link:
 calendar_link: /assets/cal/2026-03-20.ics
-recording_link:
+recording_link: https://youtu.be/ZtrHoarcqP4
 ---
 *Bio coming soon.*
