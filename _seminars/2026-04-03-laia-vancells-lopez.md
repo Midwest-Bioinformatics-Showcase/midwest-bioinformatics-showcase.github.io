@@ -13,6 +13,6 @@ abstract: "The abscopal effect, where local radiotherapy (RT) induces regression
 date: 2026-04-03
 zoom_link:
 calendar_link: /assets/cal/2026-04-03.ics
-recording_link:
+recording_link: https://youtu.be/CwNSjBk6Z9M
 ---
 *Bio coming soon.*
