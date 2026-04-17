@@ -13,6 +13,6 @@ abstract: "Neuroblastoma is the most common pediatric cancer and majority of pat
 date: 2026-04-17
 zoom_link:
 calendar_link: /assets/cal/2026-04-17.ics
-recording_link:
+recording_link: https://youtu.be/fWAUE_WZvk4
 ---
 *Bio coming soon.*
