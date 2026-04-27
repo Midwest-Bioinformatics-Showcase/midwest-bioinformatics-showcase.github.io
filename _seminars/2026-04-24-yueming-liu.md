@@ -19,6 +19,6 @@ Conclusion: Our findings demonstrate that reference sets derived from multi-ance
 date: 2026-04-24
 zoom_link:
 calendar_link: /assets/cal/2026-04-24.ics
-recording_link:
+recording_link: https://youtu.be/1EMRySg3i5s
 ---
 *Bio coming soon.*
